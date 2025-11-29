@@ -7,6 +7,7 @@ process_attendance(): search student_id, course_id, date for student who has a s
 process_student_alarm(): search student_id for who meet the requirement to be regarded as in risk.
 
 structure of the file:
+
 my_project/
 
 ├── code/
