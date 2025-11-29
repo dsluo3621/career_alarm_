@@ -8,9 +8,15 @@ process_student_alarm(): search student_id for who meet the requirement to be re
 
 structure of the file:
 my_project/
+
 ├── code/
+
 │   └── main.py
+
 ├── data/
+
 │   ├── grades.csv
-│   └── attendance_time.csv  # 确保此文件存在
+
+│   └── attendance_time.csv  
+
 └── output/
